@@ -10,8 +10,26 @@ software mantenible.
 
 ### Nivel Básico
 1. [Convención de nombramiento de variables.](basico/1-convencion-nombramiento-de-variables.md)
-2. Convención de nombramiento de métodos y clases.
+2. [Convención de nombramiento de métodos y clases.](basico/2-convencion-nombramiento-de-metodos-y-clases.md)
 3. Comentarios en código.
 4. Indentación.
 5. Herramientas de análisis de código.
 6. Readme file en la raíz del proyecto.
+7. If, else, switch, match y retornos tempranos en metodos y funciones.
+8. DTOs, ValueObjects, Enums, Entities, Agragados.
+9. Colas de mensajeria.
+
+### Nivel Intermedio
+1. S de SOLID. (The Single Responsibility Principle)
+2. O de SOLID. (The Open-Closed Principle)
+3. L de SOLID. (The Liskov Substitution Principle)
+4. I de SOLID. (The Interface Segregation Principle)
+5. D de SOLID. (The Dependency Inversion Principle)
+
+### Nivel Avanzado
+1. Arquitectura en Capas.
+2. Domain Driven Design.
+3. CQRS.
+4. Event Sourcing.
+5. Event Driven Arquitecture.
+6. Microservicios.
