@@ -9,7 +9,7 @@ con el tiempo uno puede ir mejorando cuando retos importantes de solución son n
 software mantenible.
 
 ### Nivel Básico
-1. Convención de nombramiento de variables.
+1. [Convención de nombramiento de variables.](basico/1-convencion-nombramiento-de-variables.md)
 2. Convención de nombramiento de métodos y clases.
 3. Comentarios en código.
 4. Indentación.
