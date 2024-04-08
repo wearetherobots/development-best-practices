@@ -11,7 +11,7 @@ software mantenible.
 ### Nivel Básico
 1. [Convención de nombramiento de variables.](basico/1-convencion-nombramiento-de-variables.md)
 2. [Convención de nombramiento de métodos y clases.](basico/2-convencion-nombramiento-de-metodos-y-clases.md)
-3. Comentarios en código.
+3. [Comentarios en código.](3-convencion-comentarios-en-codigo.md)
 4. Indentación.
 5. Herramientas de análisis de código.
 6. Readme file en la raíz del proyecto.
