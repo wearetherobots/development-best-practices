@@ -12,7 +12,7 @@ software mantenible.
 1. [Convención de nombramiento de variables.](basico/1-convencion-nombramiento-de-variables.md)
 2. [Convención de nombramiento de métodos y clases.](basico/2-convencion-nombramiento-de-metodos-y-clases.md)
 3. [Comentarios en código.](basico/3-convencion-comentarios-en-codigo.md)
-4. Indentación.
+4. [Indentación.](basico/4-identacion.md)
 5. Herramientas de análisis de código.
 6. Readme file en la raíz del proyecto.
 7. If, else, switch, match y retornos tempranos en metodos y funciones.
